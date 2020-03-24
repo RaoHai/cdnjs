@@ -1,6 +1,6 @@
 {
   "name": "g2plot",
-  "filename": "dist/g2plot.js",
+  "filename": "g2plot.js",
   "version": "1.0.2",
   "description": "An interactive and responsive charting library",
   "homepage": "https://g2plot.antv.vision",
