@@ -1,7 +1,6 @@
 {
   "name": "g2plot",
   "filename": "g2plot.js",
-  "version": "1.0.2",
   "description": "An interactive and responsive charting library",
   "homepage": "https://g2plot.antv.vision",
   "author": "https://github.com/orgs/antvis/people",
